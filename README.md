@@ -49,25 +49,23 @@
 
 ## 🌍 Open Source Contributions
 
-🚀 I actively contribute to open-source and collaborate with developers worldwide  
+🚀 Actively contributing to open-source and collaborating globally  
 
-![Pull Requests](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Pull%20Requests&query=%24.total_count&url=https://api.github.com/search/issues?q=author:Mahaprasadnanda+type:pr)
-
-![GitHub Contributions](https://img.shields.io/github/commit-activity/m/Mahaprasadnanda/Mahaprasadnanda)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahaprasadnanda&theme=radical)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Mahaprasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahaprasadnanda&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Mahaprasadnanda&show_icons=true&theme=radical&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaprasadnanda&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaprasadnanda&layout=compact&theme=radical&cache_seconds=86400)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Mahaprasadnanda&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Mahaprasadnanda&theme=radical&cache_seconds=86400)
 
 ---
 
