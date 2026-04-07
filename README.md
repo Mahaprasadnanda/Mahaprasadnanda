@@ -51,21 +51,15 @@
 
 🚀 Actively contributing to open-source and collaborating globally  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahaprasadnanda&theme=radical)
+👉 Check my contributions here:  
+https://github.com/Mahaprasadnanda?tab=overview  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Mahaprasadnanda&show_icons=true&theme=radical&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaprasadnanda&layout=compact&theme=radical&cache_seconds=86400)
-
----
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Mahaprasadnanda&theme=radical&cache_seconds=86400)
+👉 View my full GitHub stats:  
+https://github.com/Mahaprasadnanda  
 
 ---
 
