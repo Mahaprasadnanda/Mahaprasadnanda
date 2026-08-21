@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Pre-final year student targeting top tech & AI firms like **OpenAI, Anthropic, DeepMind**
+- 🎓 Final year student targeting top tech & AI firms like **OpenAI, Anthropic, DeepMind**
 - 🤖 Exploring **AI, Deep Learning, LLMs & Generative AI**
 - ☁️ Strong interest in **Cloud Systems, Deployment & Scalable Architectures**
 - ⚙️ Building **scalable backend systems using Flask & FastAPI**
