@@ -129,13 +129,14 @@ Cloud stroke-prediction platform with Airflow ETL pipelines and 45% latency redu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahaprasadnanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Mahaprasadnanda&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahaprasadnanda&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaprasadnanda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaprasadnanda&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600"/>
 </p>
+
+> **Note:** these cards are served by a free public instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), which occasionally rate-limits or times out. If a card shows broken here, it's usually still fine once GitHub's image cache (camo) refreshes — or wait a few minutes and hard-refresh your profile page. If it stays broken, the most reliable fix is deploying your own free instance on Vercel (one-click "Deploy" button on that repo) and swapping the domain in the image URLs above.
 
 ---
 
