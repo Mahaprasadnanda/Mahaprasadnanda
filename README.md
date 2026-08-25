@@ -129,16 +129,12 @@ Cloud stroke-prediction platform with Airflow ETL pipelines and 45% latency redu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahaprasadnanda&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahaprasadnanda&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahaprasadnanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=Mahaprasadnanda&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaprasadnanda&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahaprasadnanda&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaprasadnanda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 ---
