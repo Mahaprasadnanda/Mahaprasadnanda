@@ -1,126 +1,117 @@
 <h1 align="center">Hi there, I'm Mahaprasad Nanda 👋</h1>
 
-<h3 align="center">🎯 Backend Software Engineer | AI/ML Enthusiast | Building Cloud-Native Systems</h3>
+<h3 align="center">Backend Software Engineer • AI/ML Enthusiast • Cloud-Native Systems Builder</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahaprasad-nanda-707528285/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://mahaprasadnandaportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:mahaprasadnanda2023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Mahaprasadnanda"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mahaprasad-nanda-707528285/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mahaprasadnandaportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:mahaprasadnanda2023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Mahaprasadnanda"><img src="https://img.shields.io/github/followers/Mahaprasadnanda?style=for-the-badge&logo=github&label=Followers&color=181717" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+backend+systems+%F0%9F%9A%80;Java+%7C+Python+%7C+FastAPI+%7C+Spring+Boot;Exploring+LLMs+%26+Generative+AI+%F0%9F%A4%96;Open+to+SDE+%2F+AI+Engineer+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+scalable+cloud-native+backend+systems;Architecting+microservices+with+FastAPI+%26+Spring+Boot;Exploring+LLMs%2C+GenAI+%26+applied+ML;National+Finalist+-+DSCI%2FMeitY+Cybersecurity+Challenge" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🎯 About Me
 
-- 🎓 Dual-degree student — **B.S. Data Science & Applications, IIT Madras** and **B.Tech IT, IIIT Bhubaneswar** (2023–2027)
-- 💼 Currently SDE Intern at **Bluestock Fintech** & Backend Dev Intern at **SR INDIA**
-- 🏆 National Finalist — **DSCI x MeitY Cybersecurity Innovation Challenge** for *Zerify*, a Zero-Knowledge-Proof KYC platform
-- 🌱 Open-source contributor — added a backward-compatibility CLI command to **JSON Schema**
-- ⚙️ Focused on scalable microservices, test automation, and observability (Prometheus, Grafana, OpenTelemetry)
-- 🤖 Exploring **LLMs, Generative AI & Applied ML**
+- 🎓 Pursuing **dual degrees** — B.S. in Data Science & Applications @ **IIT Madras** and B.Tech in Information Technology @ **IIIT Bhubaneswar** (2023–2027)
+- 💼 Currently **SDE Intern @ Bluestock Fintech** and **Backend Engineering Intern @ SR INDIA**
+- 🏆 **National Finalist** — Cybersecurity Innovation Challenge (DSCI & MeitY, Govt. of India) for **Zerify**, a Zero-Knowledge-Proof KYC platform
+- 🌱 Open-source contributor to **JSON Schema** — shipped a `compat` CLI command for backward-compatibility validation
+- ⚙️ I build **scalable microservices, test automation frameworks, and observability pipelines**
+- 🤖 Deep interest in **Generative AI, LLMs, distributed systems, and cloud deployment**
 - 📫 Reach me at **mahaprasadnanda2023@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <br/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,js,mysql,bash&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,flask,nodejs,react,express&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions,firebase&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,grafana,postman&theme=dark" />
 </p>
+
+<details>
+<summary>📋 Full Skill Breakdown</summary>
+
+| Category | Tools |
+|---|---|
+| **Languages** | Java, Python, C++, JavaScript, SQL, Bash |
+| **Frameworks** | FastAPI, Spring Boot, Flask, Node.js, React, Express |
+| **Cloud / DevOps** | AWS (EC2, ECS, Lambda, CloudFront), GCP, Azure, Docker, GitHub Actions CI/CD |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Firebase Realtime DB, Redis, SQLite |
+| **Testing & Observability** | Pytest, JUnit, Postman, Prometheus, Grafana, OpenTelemetry |
+| **AI / ML** | TensorFlow, PyTorch, XGBoost, LLMs, Prompt Engineering, NLP |
+
+</details>
 
 ---
 
-### 🌟 Featured Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-**🔐 [Zerify](https://github.com/Mahaprasadnanda)**  
-Privacy-preserving KYC platform using Zero-Knowledge Proofs. National Finalist at DSCI/MeitY Cybersecurity Challenge.  
-`Next.js` `FastAPI` `AWS` `Firebase`
+**🔐 Zerify — Privacy-Preserving KYC Platform**
+Zero-Knowledge-Proof identity verification eliminating raw PII exposure. National Finalist, DSCI/MeitY Cybersecurity Challenge.
+`Next.js` `FastAPI` `AWS ECS/CloudFront` `Firebase`
 
 </td>
 <td width="50%">
 
-**🌐 Conductor**  
-Developer-first API gateway with async routing, JWT/API-key auth, health-aware load balancing & distributed rate limiting.  
-`FastAPI` `PostgreSQL` `Redis` `Prometheus`
+**🌉 Conductor — API Gateway & Traffic Management**
+Production-grade gateway with async routing, JWT/API-key auth, health-aware load balancing, and Prometheus/Grafana telemetry.
+`FastAPI` `PostgreSQL` `Redis` `Docker` `Grafana`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🏢 TenantPyShield**  
-Multi-tenant SaaS platform with PostgreSQL RLS, OPA-based RBAC, and 74+ backend tests for security & correctness.  
+**🏢 TenantPyShield — Multi-Tenant SaaS Platform**
+PostgreSQL RLS + OPA-based RBAC for strict tenant isolation, backed by 74+ automated tests (auth, concurrency, fuzzing).
 `FastAPI` `PostgreSQL` `OPA` `OpenTelemetry`
 
 </td>
 <td width="50%">
 
-**🕵️ DEX — Ethereum Fraud Detection**  
-Real-time dApp detecting sandwich attacks, rug pulls & wash trading with 85% accuracy under high network load.  
-`Node.js` `XGBoost` `Ethers.js` `AWS`
+**🕵️ DEX — Ethereum Fraud Detection System**
+Real-time mempool monitoring dApp detecting sandwich attacks & rug pulls with 85% accuracy via an XGBoost model on AWS ECS.
+`Node.js` `FastAPI` `React` `Ethers.js` `XGBoost`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**📈 News2Sentiment**  
-BiLSTM + USE pipeline for financial sentiment analysis — 79.5% accuracy, 40% faster real-time inference.  
-`TensorFlow` `PyTorch` `Streamlit`
+**📰 News2Sentiment — Financial Sentiment Analysis**
+BiLSTM + Universal Sentence Encoder pipeline achieving 79.5% accuracy, with 40% faster real-time inference.
+`TensorFlow` `PyTorch` `Polars` `Streamlit`
 
 </td>
 <td width="50%">
 
-**🏥 Cardio-Care**  
-Cloud stroke-prediction platform with Airflow ETL pipelines and 45% latency reduction via async FastAPI.  
-`FastAPI` `Airflow` `Docker` `GCP`
+**🩺 Cardio-Care — Cloud Stroke Prediction Platform**
+AI-driven stroke-risk analytics with Airflow ETL pipelines and a 45% latency reduction via async FastAPI endpoints.
+`FastAPI` `TensorFlow` `Airflow` `Docker` `GCP`
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary>📦 More Projects</summary>
-<br/>
+<summary>🗂️ More Projects</summary>
 
-- **Suchna Sangam** — Real-time grievance management platform (Spring Boot, Firebase, React)
-- **Fill It** — Smart IoT container fulfillment system with 80% delivery-efficiency boost (FastAPI, Firebase)
-- **ReinforceTrade** — Reinforcement-learning stock trader with 32% simulated ROI gain (Q-Learning, AWS Lambda)
+- **Suchna Sangam** — Real-time grievance management platform (Spring Boot, Firebase, React) with a 40% faster dashboard query pipeline
+- **Fill It** — Smart IoT container fulfillment system with Haversine-based route optimization, boosting delivery efficiency by 80%
+- **ReinforceTrade** — Reinforcement-learning stock trading engine (Q-Learning) deployed on AWS Lambda, +32% simulated ROI
 
 </details>
 
@@ -129,21 +120,26 @@ Cloud stroke-prediction platform with Airflow ETL pipelines and 45% latency redu
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahaprasadnanda&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mahaprasadnanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaprasadnanda&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahaprasadnanda&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahaprasadnanda&theme=tokyonight&hide_border=true" />
 </p>
 
-> **Note:** these cards are served by a free public instance of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), which occasionally rate-limits or times out. If a card shows broken here, it's usually still fine once GitHub's image cache (camo) refreshes — or wait a few minutes and hard-refresh your profile page. If it stays broken, the most reliable fix is deploying your own free instance on Vercel (one-click "Deploy" button on that repo) and swapping the domain in the image URLs above.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahaprasadnanda&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-<p align="center">
-  <i>⚡ Fun fact: I build systems that scale — and puzzles that don't (check out Logic Looper 🧩)</i>
-</p>
+### 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahaprasadnanda&style=flat-square&color=blue" alt="profile views"/>
+  <a href="https://www.linkedin.com/in/mahaprasad-nanda-707528285/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://mahaprasadnandaportfolio.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:mahaprasadnanda2023@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
 </p>
+
+<p align="center"><i>⚡ Fun fact: I love turning distributed-systems theory into production-grade, telemetry-driven code.</i></p>
