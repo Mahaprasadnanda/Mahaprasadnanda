@@ -18,7 +18,6 @@
 ### 🎯 About Me
 
 - 🎓 Pursuing **dual degrees** — B.S. in Data Science & Applications @ **IIT Madras** and B.Tech in Information Technology @ **IIIT Bhubaneswar** (2023–2027)
-- 💼 Currently **SDE Intern @ Bluestock Fintech** and **Backend Engineering Intern @ SR INDIA**
 - 🏆 **National Finalist** — Cybersecurity Innovation Challenge (DSCI & MeitY, Govt. of India) for **Zerify**, a Zero-Knowledge-Proof KYC platform
 - 🌱 Open-source contributor to **JSON Schema** — shipped a `compat` CLI command for backward-compatibility validation
 - ⚙️ I build **scalable microservices, test automation frameworks, and observability pipelines**
