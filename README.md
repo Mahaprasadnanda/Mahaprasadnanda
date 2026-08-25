@@ -145,14 +145,17 @@ Cloud-native stroke prediction service with automated Airflow ETL pipelines and 
 </p>
 
 <p align="center">
-  <img src="https://stats.readmyprofile.site/api?username=Mahaprasadnanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://stats.readmyprofile.site/api/top-langs/?username=Mahaprasadnanda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mahaprasadnanda&theme=tokyonight&no-frame=true&no-bg=true&margin_w=4" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahaprasadnanda&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <i>⚡ Fun fact: I build systems that scale — and puzzles that don't (check out <a href="https://mahaprasadnandaportfolio.vercel.app/">Logic Looper 🧩</a>)</i>
+  <i>⚡ Fun fact: I build systems that scale — and puzzles that don't (check out <a href="https://mahaprasadnandaportfolio.vercel.app/">Mahaprasad Nanda 🧩</a>)</i>
 </p>
 
 <p align="center">
