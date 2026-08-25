@@ -21,7 +21,7 @@
 - 🌱 Open-source contributor to **JSON Schema** — shipped a `compat` CLI command for backward-compatibility validation
 - ⚙️ I build **scalable microservices, test automation frameworks, and observability pipelines**
 - 🤖 Deep interest in **Generative AI, LLMs, distributed systems, and cloud deployment**
-- 📫 Reach me at **mahaprasadnanda2023@gmail.com**
+- 📫 Reach me at **Mahaprasad.programmer@gmail.com**
 
 ---
 
