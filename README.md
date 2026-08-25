@@ -6,7 +6,6 @@
   <a href="https://www.linkedin.com/in/mahaprasad-nanda-707528285/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://mahaprasadnandaportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:Mahaprasad.programmer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Mahaprasadnanda"><img src="https://img.shields.io/github/followers/Mahaprasadnanda?style=for-the-badge&logo=github&label=Followers&color=181717" /></a>
 </p>
 
 <p align="center">
